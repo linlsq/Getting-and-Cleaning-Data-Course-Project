@@ -1,6 +1,3 @@
-#Set Working Directory
-
-setwd("C:/Users/qsamban/datasciencecoursera/3.GettingandCleaningData/CourseProject/UCI HAR Dataset/")
 
 #1. Merge the training and the test data.
 
